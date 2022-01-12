@@ -1,0 +1,6 @@
+Material, Density [kg/m^3], Speed of sound [m/s]
+air, 1.2754, 343
+water, 997, 1500
+porous silicone, 1040, 15.7
+epoxy resin, 1050, 2200
+aerogel, 70, 100
